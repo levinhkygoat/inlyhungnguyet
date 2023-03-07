@@ -14,8 +14,8 @@ export default function Home() {
         <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
         <link rel="manifest" href="/site.webmanifest"></link>
       </Head>
+      <main className='container mx-auto sm:px-4 md:px-4'>
       <Header />
-      <main>
       </main> 
     </>
   )
