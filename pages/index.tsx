@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>In ấn hùng nguyệt</title>
+        <title>In ấn hùng nguyệt | In túi, In ly</title>
         <meta name="description" content="in ly nhựa, in ly giấy, in ly trà sữa, in ly nhua gia re, in ly, in bao thư c150, in bao lì xì, in bao bì, in bao bì nhựa, in bao bì sản phẩm. in bao bì theo yêu cầu" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta property="og:title" content="In ấn hùng nguyệt" />
